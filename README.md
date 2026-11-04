@@ -1,11 +1,13 @@
 # Mental state driving prompts and curation, Leonardo.Ai  #
-Copyright Josiah Rhys Jacobson and OG source material contributors (where applicable)  
+by Josiah Rhys Jacobson and OG source material contributors (where applicable)  
 
-Tags: clay, bio, lab, star, ape, dj, mask, word, dark, ui, retro, nostalgia, car, metal, mac, osx, ai, chrome, glitch, cockpit, analog, neon, tribe, archive, hybrid, static, utopia  
+### In Simple Terms
+It's a mood board and creative framework for understanding how people feel about technology: our desire for tangible, tactile digital experiences, our nostalgic relationship with older tech, and our interest in reimagining biology through a digital lens.
 
-In Simple Terms: It's a mood board and creative framework for understanding how people feel about technology: our desire for tangible, tactile digital experiences, our nostalgic relationship with older tech, and our interest in reimagining biology through a digital lens.
+### Tags
+clay, bio, lab, star, ape, dj, mask, word, dark, ui, retro, nostalgia, car, metal, mac, osx, ai, chrome, glitch, cockpit, analog, neon, tribe, archive, hybrid, static, utopia  
 
-### Mental State: "Nostalgic Cyber-Industrialism"
+## Mental State: "Nostalgic Cyber-Industrialism"
 
 ### Creative Angle: "Biomimetic Machinery"
 
@@ -17,7 +19,7 @@ In Simple Terms: It's a mood board and creative framework for understanding how 
 
 ### Skeuomorphic Dystopia : a world where the future didn't become clean and invisible, but stayed loud, metallic, and deeply human. ###
 
-### Mental State: "Alchemical Biotech Nostalgia"
+## Mental State: "Alchemical Biotech Nostalgia"
 
 ### Creative Angle: "The Synthetic Organism"
 
