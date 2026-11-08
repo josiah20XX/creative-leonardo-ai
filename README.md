@@ -1,5 +1,11 @@
-# Mental state driving prompts and curation, Leonardo.Ai  #
+# Prompts and curation on Leonardo.Ai
 by Josiah Rhys Jacobson and OG source material contributors (where applicable)  
+
+## Purpose
+
+Part of a mission to explore and understand AI-generated, human-controlled creative work. Ultimately contributing to the promotion and advancement of AI safety.
+
+## Notes
 
 ### In Simple Terms
 It's a mood board and creative framework for understanding how people feel about technology: our desire for tangible, tactile digital experiences, our nostalgic relationship with older tech, and our interest in reimagining biology through a digital lens.
