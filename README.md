@@ -1,10 +1,6 @@
 # Prompts and curation on Leonardo.Ai
 by Josiah Rhys Jacobson and OG source material contributors (where applicable)  
 
-## Purpose
-
-Part of a mission to explore and understand AI-generated, human-controlled creative work. Ultimately contributing to the promotion and advancement of AI safety.
-
 ## Notes
 
 ### In Simple Terms
